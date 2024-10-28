@@ -7,11 +7,14 @@ Este é um sistema web de hidroponia desenvolvido com HTML e CSS, utilizando **f
 ## 📂 Estrutura do Projeto
 
 ```plaintext
-├── index.html          # Página inicial
-├── sensores.html       # Página com informações de sensores
-├── informacoes.html    # Página de informações gerais
-├── sistemas.html       # Página com informações sobre sistemas de hidroponia
-└── style.css           # Arquivo de estilos principal
+├── index.html              # Página inicial
+├── img
+    ├── logo3.png           # Logo do site
+├── views
+    ├── sensores.html       # Página com informações de sensores
+    ├── informacoes.html    # Página de informações gerais
+    ├── sistemas.html       # Página com informações sobre sistemas de hidroponia
+└── style.css               # Arquivo de estilos principal
 ```
 
 ## 🚀 Como Usar
