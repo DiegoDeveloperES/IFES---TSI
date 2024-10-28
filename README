@@ -1,36 +1,20 @@
-Sistema Web de Hidroponia 🌿
-Este é um sistema web de hidroponia desenvolvido com HTML e CSS, utilizando flexbox para garantir responsividade e uma estrutura simples e acessível. O sistema possui um menu lateral de fácil navegação, com links para diferentes páginas informativas.
+# 🌿 Sistema Web de Hidroponia
 
-📑 Funcionalidades
-Menu Lateral Responsivo: Navegação entre páginas com links no menu lateral.
-Paleta de Cores Temática: Cores verdes e azuis que remetem ao tema de hidroponia.
-Design Responsivo: Utilização de flexbox para se adaptar a vários tamanhos de tela.
-Redirecionamento entre Páginas: Links de navegação para páginas específicas (Início, Sensores, Informações e Sistemas).
+Este é um sistema web de hidroponia desenvolvido com HTML e CSS, utilizando **flexbox** para garantir responsividade e uma estrutura simples e acessível. O sistema possui um menu lateral de fácil navegação, com links para diferentes páginas informativas.
 
-📂 Estrutura do Projeto
+---
+
+## 📂 Estrutura do Projeto
+
+```plaintext
 ├── index.html          # Página inicial
 ├── sensores.html       # Página com informações de sensores
 ├── informacoes.html    # Página de informações gerais
 ├── sistemas.html       # Página com informações sobre sistemas de hidroponia
 └── style.css           # Arquivo de estilos principal
+```
 
-🌈 Paleta de Cores
-Sidebar: #2e8b57 (verde escuro) e #3cb371 (verde médio) para destacar itens do menu.
-Conteúdo: #f0f8ff (azul claro) para dar contraste e melhorar a leitura.
-Fonte: Branco e verde para combinar com o tema de natureza e sustentabilidade.
-📏 Tamanho Ideal da Logo
-Para uma visualização adequada no menu lateral, recomendamos uma logo no tamanho de 150x150 px.
-
-🚀 Como Usar
-Clone o repositório ou baixe os arquivos.
-Abra o arquivo index.html em seu navegador.
-Navegue entre as páginas usando o menu lateral.
-🎨 Pré-visualização
-Página Inicial: Um resumo geral com o título “Página Inicial.”
-Sensores: Página dedicada a informações de sensores, título “Página de Sensores.”
-Informações: Dados adicionais relevantes à hidroponia, título “Página de Informações.”
-Sistemas: Descrição sobre os sistemas utilizados, título “Página de Sistemas.”
-📋 Notas Técnicas
-O layout é construído com HTML e CSS puro, sem JavaScript ou frameworks adicionais.
-A metodologia flexbox garante que o layout seja adaptável em diferentes dispositivos.
-
+## 🚀 Como Usar
+1. Clone o repositório ou baixe os arquivos.
+2. Abra o arquivo index.html em seu navegador.
+3. Navegue entre as páginas usando o menu lateral.
